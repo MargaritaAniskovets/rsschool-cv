@@ -28,6 +28,6 @@ My projects: https://margo20.github.io/
 * SKILLUP courses : Introduction to HTML, Learn CSS, Introduction to JavaScript
 
 ## Languages
-* English - B1
-* Polish - B2
+* English - A1
+* Polish - B1
 * French - A1

@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px 100px 20px 150px;
+    background: #dfdddd;
+    font-family: "Arial", sans-serif;
+    font-style: normal;
+    line-height: 1.5;
+    color: #070401;
+ }
+
+ .container a {
+     text-decoration: none;
+     color: #515dff;
+ }
+
+ .container a:hover {
+     text-decoration: underline;
+     color: #7e1dda;
+ }
+
+ .container p,
+ .container ul > li {
+     font-size: 23px;
+ }
+
+.contact ul {
+    padding-left: 0;
+}
+
+.contact ul > li {
+    list-style-type: none;
+}
+
+.languages ul > li{
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.flex-wrap {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    margin-left: 185px;
+}

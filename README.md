@@ -1,1 +1,1 @@
-https://margaritaaniskovets.github.io/rsschool-cv/cv
+https://margaritaaniskovets.github.io/rsschool-cv/
